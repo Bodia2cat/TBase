@@ -1,3 +1,4 @@
 # TBase
 ## Tbase is reader for date base
-Now its not encode, ut i will fix it in second version :)
+Now last version is 3.0, you can download it now!
+#### :) ####
